@@ -1,12 +1,1 @@
-10.241.91.215	dl.cga.com.cn
-10.241.91.215	dl-edu.cga.com.cn
-10.241.91.216	jifen.cga.com.cn
-10.241.91.215	dlc.cga.com.cn
-10.241.91.221	imba-login.cga.com.cn
-
-10.241.91.235 newpt.cga.com.cn
-10.241.91.235 newptstatic.cga.com.cn
-10.241.91.235 newptupload.cga.com.cn
-10.241.91.235 newptuploadimg.cga.com.cn 
-10.241.91.221 imba-login.cga.com.cn
-10.241.91.221 gatesvr.cga.com.cn
+111.182.11.12 www.test.com
